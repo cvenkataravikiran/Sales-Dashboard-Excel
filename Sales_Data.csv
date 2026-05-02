@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,City,Region,Product,Category,Quantity,Unit_Price,Total_Sales,Payment_Method,Order_Status
+ORD1000,9/12/2025,CUST473,Bryan Ruiz,Leeburgh,North,Headphones,Electronics,4,16836,67344,Cash,Completed
+ORD1001,5/22/2025,CUST189,Darren Hernandez,South Tiffany,East,Tablet,Electronics,5,53776,268880,Cash,Cancelled
+ORD1002,2/16/2026,CUST142,Jennifer Ray,Lake Deborah,East,Mobile,Electronics,5,1250,6250,Net Banking,Completed
+ORD1003,4/17/2026,CUST603,Angel Nichols,Youngton,West,Smartwatch,Electronics,3,6092,18276,Cash,Returned
+ORD1004,8/20/2025,CUST832,Eric Peterson,Lake Danielberg,West,Tablet,Electronics,3,9128,27384,Cash,Cancelled
+ORD1005,1/12/2026,CUST870,Seth Miller,Murphychester,North,Smartwatch,Electronics,4,34348,137392,Net Banking,Returned
+ORD1006,1/10/2026,CUST223,Jason Ramirez,Blanchardstad,North,Laptop,Electronics,1,45419,45419,Debit Card,Completed
+ORD1007,12/21/2025,CUST961,Angela Hall,Ricestad,East,Laptop,Electronics,3,49940,149820,Cash,Completed
+ORD1008,10/31/2025,CUST149,Raymond Evans,South Loriside,West,Tablet,Electronics,4,60298,241192,Credit Card,Completed
+ORD1009,7/27/2025,CUST486,Mark Taylor,Garymouth,North,Printer,Electronics,3,1990,5970,Net Banking,Returned
+ORD1010,3/5/2026,CUST831,Ashley Jimenez,East Timothy,West,Printer,Electronics,1,15047,15047,UPI,Returned
+ORD1011,1/22/2026,CUST311,Amy Arnold,South Jennifer,East,Camera,Electronics,3,58547,175641,Credit Card,Cancelled
+ORD1012,8/3/2025,CUST845,Ashley Murray,Kathyview,North,Camera,Electronics,1,21938,21938,Debit Card,Completed
+ORD1013,9/20/2025,CUST350,Erik Kelly,Jonesfurt,South,Mobile,Electronics,1,39840,39840,UPI,Cancelled
+ORD1014,4/30/2026,CUST364,Roger Gutierrez,South Lindsay,West,Camera,Electronics,4,20746,82984,Debit Card,Returned
+ORD1015,3/15/2026,CUST353,Ronald Chavez,Salasburgh,North,Smartwatch,Electronics,1,16325,16325,Debit Card,Cancelled
+ORD1016,12/14/2025,CUST585,Paula Turner,New Karenhaven,South,Camera,Electronics,1,70934,70934,Credit Card,Returned
+ORD1017,2/21/2026,CUST247,Timothy Davis,New Dylanfurt,West,Camera,Electronics,1,53118,53118,Cash,Returned
+ORD1018,2/2/2026,CUST600,Virginia Phillips,North Holly,West,Printer,Electronics,1,38090,38090,Cash,Completed
+ORD1019,4/13/2026,CUST926,Paul Smith,Port Brandonport,South,Smartwatch,Electronics,4,13692,54768,Cash,Returned
+ORD1020,8/29/2025,CUST609,Adam Moore,Smithville,South,Camera,Electronics,3,30486,91458,UPI,Completed
+ORD1021,10/30/2025,CUST239,Larry Myers,Port Jimmy,North,Laptop,Electronics,1,72570,72570,Net Banking,Returned
+ORD1022,8/2/2025,CUST462,Lisa Hawkins,East Sarah,North,Smartwatch,Electronics,4,20027,80108,Debit Card,Completed
+ORD1023,2/8/2026,CUST551,Michael Ellison,Shaunbury,North,Printer,Electronics,4,26242,104968,Credit Card,Cancelled
+ORD1024,7/9/2025,CUST519,Craig Cummings,Estradaview,South,Tablet,Electronics,2,34513,69026,Cash,Completed
+ORD1025,8/25/2025,CUST500,Michael Velasquez,North Victoriafurt,West,Laptop,Electronics,5,11331,56655,Net Banking,Completed
+ORD1026,4/15/2026,CUST435,Teresa Robinson,Martinezstad,West,Tablet,Electronics,2,3023,6046,Credit Card,Cancelled
+ORD1027,7/20/2025,CUST834,April Morgan,Huntfort,South,Printer,Electronics,2,52616,105232,Net Banking,Returned
+ORD1028,1/24/2026,CUST281,Nicholas Coleman,Wilsonfort,North,Headphones,Electronics,2,79266,158532,Debit Card,Completed
+ORD1029,4/18/2026,CUST318,Gabriel Serrano,Johnhaven,North,Tablet,Electronics,2,76433,152866,Cash,Completed
+ORD1030,10/7/2025,CUST738,William Collins,South Cynthia,North,Laptop,Electronics,3,31981,95943,Net Banking,Returned
+ORD1031,2/24/2026,CUST538,Julian Jenkins,Johnsonstad,North,Mobile,Electronics,4,46311,185244,Debit Card,Completed
+ORD1032,5/13/2025,CUST541,Ralph Moore,Lake Christopher,North,Headphones,Electronics,4,29544,118176,UPI,Cancelled
+ORD1033,1/11/2026,CUST975,Stacey Ball,Joelville,South,Headphones,Electronics,1,15358,15358,Net Banking,Completed
+ORD1034,6/13/2025,CUST507,Julia Evans,Sancheztown,South,Smartwatch,Electronics,1,20083,20083,UPI,Returned
+ORD1035,11/18/2025,CUST677,Dustin Wright,South Bretttown,West,Mobile,Electronics,1,70555,70555,Cash,Cancelled
+ORD1036,2/4/2026,CUST218,Tiffany Farmer,Pierceville,South,Printer,Electronics,4,73476,293904,Debit Card,Returned
+ORD1037,5/17/2025,CUST744,Cody Parker MD,Robinsonborough,North,Camera,Electronics,5,37199,185995,Debit Card,Cancelled
+ORD1038,2/21/2026,CUST731,Andres Morris,North Samuelchester,North,Laptop,Electronics,2,37587,75174,Cash,Completed
+ORD1039,7/14/2025,CUST768,Julie Anderson,South Matthewfort,East,Tablet,Electronics,2,77762,155524,Debit Card,Completed
+ORD1040,11/11/2025,CUST707,Elijah Terrell,New Ronaldport,East,Headphones,Electronics,3,4507,13521,Cash,Completed
+ORD1041,1/4/2026,CUST264,Mike Miller,Roberttown,North,Mobile,Electronics,4,36371,145484,Debit Card,Cancelled
+ORD1042,12/30/2025,CUST125,Tiffany Walker,East Jason,West,Laptop,Electronics,2,65432,130864,UPI,Returned
+ORD1043,7/13/2025,CUST130,Ricky Simpson,Snyderland,North,Tablet,Electronics,5,76173,380865,Net Banking,Completed
+ORD1044,11/13/2025,CUST944,Katherine Melendez,Friedmanview,North,Tablet,Electronics,2,65166,130332,Credit Card,Returned
+ORD1045,6/2/2025,CUST766,Kimberly Snow,West Jessica,North,Tablet,Electronics,1,70146,70146,Credit Card,Completed
+ORD1046,6/18/2025,CUST282,Mark Newman,Russellside,East,Camera,Electronics,4,69083,276332,Debit Card,Returned
+ORD1047,1/9/2026,CUST484,Alexis Carroll,Petersberg,South,Camera,Electronics,4,23621,94484,Credit Card,Cancelled
+ORD1048,3/25/2026,CUST139,Megan Hernandez,East Andreahaven,South,Mobile,Electronics,4,62712,250848,Debit Card,Completed
+ORD1049,8/31/2025,CUST854,Robert Anderson,West Antonio,North,Smartwatch,Electronics,1,76176,76176,Debit Card,Completed
+ORD1050,3/7/2026,CUST522,Mark Jackson,Lake Jessica,West,Camera,Electronics,4,78330,313320,Cash,Cancelled
+ORD1051,1/13/2026,CUST189,Nicole Thomas,Thomasberg,North,Tablet,Electronics,2,63993,127986,UPI,Cancelled
+ORD1052,1/30/2026,CUST846,Angela Fox,Summerschester,East,Laptop,Electronics,3,78929,236787,Net Banking,Cancelled
+ORD1053,3/14/2026,CUST626,Catherine Levine,Greenefort,West,Camera,Electronics,5,5910,29550,Debit Card,Returned
+ORD1054,8/10/2025,CUST528,Robert Kelly,West Francis,North,Printer,Electronics,1,53282,53282,Debit Card,Cancelled
+ORD1055,7/19/2025,CUST258,Crystal Smith,East Cliffordview,North,Camera,Electronics,1,67851,67851,Credit Card,Returned
+ORD1056,7/2/2025,CUST545,Ronald Sims,Sherryburgh,East,Mobile,Electronics,5,17256,86280,UPI,Completed
+ORD1057,4/18/2026,CUST617,Christopher Walker,Shannonville,North,Mobile,Electronics,5,73493,367465,Net Banking,Returned
+ORD1058,11/3/2025,CUST896,Tracy Bauer,Aaronburgh,West,Laptop,Electronics,5,53391,266955,Net Banking,Completed
+ORD1059,6/29/2025,CUST614,Craig Michael,Lake Ashley,South,Camera,Electronics,4,12462,49848,Cash,Cancelled
+ORD1060,8/29/2025,CUST618,Anthony Garner,Deannaberg,North,Camera,Electronics,1,36202,36202,Debit Card,Cancelled
+ORD1061,6/20/2025,CUST790,Mandy Davidson,West Stephenhaven,West,Mobile,Electronics,4,68822,275288,Credit Card,Completed
+ORD1062,1/17/2026,CUST820,Jacob Moore,Juarezbury,West,Camera,Electronics,5,9158,45790,UPI,Completed
+ORD1063,2/21/2026,CUST433,William Phillips,Lake Anthonyland,North,Smartwatch,Electronics,1,33652,33652,Debit Card,Cancelled
+ORD1064,4/22/2026,CUST665,Marissa Smith,North Leahland,South,Smartwatch,Electronics,5,15712,78560,UPI,Returned
+ORD1065,11/9/2025,CUST791,Kenneth Sanchez,Terrytown,West,Mobile,Electronics,5,16881,84405,Net Banking,Completed
+ORD1066,9/8/2025,CUST919,Diane Haynes,Davisborough,North,Headphones,Electronics,1,57248,57248,Cash,Cancelled
+ORD1067,1/26/2026,CUST208,Kirk Carr,North Pamelastad,West,Printer,Electronics,5,2037,10185,Net Banking,Cancelled
+ORD1068,4/14/2026,CUST984,Julia Thomas,Port Kimberlystad,North,Headphones,Electronics,3,54394,163182,Net Banking,Cancelled
+ORD1069,3/18/2026,CUST253,Beth Newton,Jeffreyberg,East,Laptop,Electronics,4,46217,184868,Cash,Completed
+ORD1070,8/17/2025,CUST503,Richard Davis,Lake Mackenzieland,South,Camera,Electronics,3,59016,177048,Cash,Completed
+ORD1071,4/20/2026,CUST150,Randall Joseph,Charlenemouth,West,Smartwatch,Electronics,5,28369,141845,Cash,Cancelled
+ORD1072,5/2/2025,CUST312,Mark Thompson,Port Keith,East,Camera,Electronics,5,66372,331860,Credit Card,Cancelled
+ORD1073,9/2/2025,CUST718,Kimberly Martinez,Ryanside,North,Printer,Electronics,2,56138,112276,Credit Card,Completed
+ORD1074,7/9/2025,CUST620,Brian Salinas,New Sandra,North,Camera,Electronics,5,46857,234285,Cash,Completed
+ORD1075,7/9/2025,CUST284,Melissa Ortiz,Reeseview,West,Printer,Electronics,5,25749,128745,Net Banking,Completed
+ORD1076,1/23/2026,CUST177,Robert Lewis,Michaelstad,East,Tablet,Electronics,4,58376,233504,Debit Card,Returned
+ORD1077,7/31/2025,CUST977,Keith Boone,Lake Kevinview,West,Mobile,Electronics,1,36187,36187,UPI,Completed
+ORD1078,3/9/2026,CUST497,Christy Hernandez,Kellybury,East,Printer,Electronics,5,70077,350385,Net Banking,Cancelled
+ORD1079,2/15/2026,CUST670,Scott Welch,Antonioland,West,Printer,Electronics,2,17160,34320,UPI,Cancelled
+ORD1080,10/3/2025,CUST368,Mandy Cortez,West Amandaport,South,Printer,Electronics,5,4188,20940,Debit Card,Completed
+ORD1081,9/5/2025,CUST354,Sandra Noble,Stevenfort,North,Printer,Electronics,2,31828,63656,Net Banking,Completed
+ORD1082,7/30/2025,CUST666,Collin Garcia,New Allisonport,East,Camera,Electronics,1,72345,72345,Debit Card,Completed
+ORD1083,12/17/2025,CUST538,Michael Robles,South Kimberly,North,Smartwatch,Electronics,5,1815,9075,Debit Card,Cancelled
+ORD1084,11/25/2025,CUST368,Philip Chandler,Floreston,East,Camera,Electronics,5,76671,383355,Debit Card,Returned
+ORD1085,11/19/2025,CUST317,Mr. Cody Stewart,South Michael,North,Smartwatch,Electronics,1,30889,30889,Net Banking,Cancelled
+ORD1086,6/17/2025,CUST830,Luis Conley,Christieberg,North,Mobile,Electronics,3,3568,10704,Debit Card,Completed
+ORD1087,4/11/2026,CUST891,Brandon Coleman,Shannonport,West,Laptop,Electronics,1,79426,79426,Debit Card,Cancelled
+ORD1088,4/15/2026,CUST849,Jennifer Ford,West Sean,East,Smartwatch,Electronics,3,78417,235251,Credit Card,Returned
+ORD1089,6/23/2025,CUST333,Leonard Andrews,Arellanoport,East,Laptop,Electronics,4,20711,82844,UPI,Cancelled
+ORD1090,5/1/2025,CUST383,Mark Jones,South Matthew,North,Camera,Electronics,4,13789,55156,Cash,Completed
+ORD1091,5/8/2025,CUST828,Dalton Anderson,Deanshire,South,Smartwatch,Electronics,2,31026,62052,UPI,Returned
+ORD1092,2/19/2026,CUST655,Erik Osborn,North Adam,West,Mobile,Electronics,3,10173,30519,Credit Card,Returned
+ORD1093,6/22/2025,CUST361,Victoria Andrews,Staceyville,North,Laptop,Electronics,3,74692,224076,Credit Card,Returned
+ORD1094,4/18/2026,CUST648,Timothy Cook,East Connie,North,Smartwatch,Electronics,5,64459,322295,Credit Card,Returned
+ORD1095,3/26/2026,CUST577,Angela Price,Mikestad,North,Smartwatch,Electronics,2,57504,115008,Net Banking,Completed
+ORD1096,2/26/2026,CUST503,Kyle Campbell,Anthonyburgh,East,Mobile,Electronics,2,40745,81490,Credit Card,Cancelled
+ORD1097,6/28/2025,CUST587,Jason Dillon,Bellton,South,Smartwatch,Electronics,4,16011,64044,UPI,Cancelled
+ORD1098,9/26/2025,CUST504,Justin Bryant,Weaverland,West,Laptop,Electronics,4,36825,147300,Credit Card,Returned
+ORD1099,11/30/2025,CUST999,David Johnson,Lake Timothyland,North,Laptop,Electronics,5,37226,186130,Credit Card,Cancelled
+ORD1100,9/5/2025,CUST487,Ryan Hickman Jr.,Garciahaven,West,Headphones,Electronics,3,58552,175656,Cash,Returned
+ORD1101,3/5/2026,CUST833,Marilyn Riley,South Allenhaven,North,Smartwatch,Electronics,2,41398,82796,UPI,Completed
+ORD1102,4/4/2026,CUST904,Bruce Payne,Blakeshire,East,Headphones,Electronics,2,78848,157696,Cash,Cancelled
+ORD1103,6/21/2025,CUST269,Tina Ross,Jessicaborough,South,Camera,Electronics,3,9176,27528,Cash,Completed
+ORD1104,3/20/2026,CUST769,Wendy Medina,West Haleyborough,North,Mobile,Electronics,3,76345,229035,UPI,Cancelled
+ORD1105,7/5/2025,CUST781,Anthony Rodriguez,North Kyleborough,East,Camera,Electronics,5,2804,14020,Cash,Returned
+ORD1106,12/15/2025,CUST914,Kevin Bell,West Angela,South,Smartwatch,Electronics,2,11295,22590,Credit Card,Returned
+ORD1107,3/23/2026,CUST452,Cheryl Curry,Lake Philip,East,Headphones,Electronics,1,61543,61543,Net Banking,Returned
+ORD1108,9/6/2025,CUST114,Chelsea Vega,West Crystal,North,Printer,Electronics,5,38893,194465,Debit Card,Returned
+ORD1109,7/31/2025,CUST770,Timothy Chavez,Lake Jason,South,Printer,Electronics,4,6543,26172,Credit Card,Returned
+ORD1110,2/18/2026,CUST453,Terry Williams,Nelsonhaven,East,Mobile,Electronics,1,54528,54528,UPI,Returned
+ORD1111,3/14/2026,CUST468,Joseph White,Brucetown,North,Laptop,Electronics,1,43523,43523,Cash,Cancelled
+ORD1112,11/16/2025,CUST285,James Wilson,North Robert,South,Camera,Electronics,3,38133,114399,Net Banking,Completed
+ORD1113,10/12/2025,CUST284,Alexandra Lam,South Joseph,West,Laptop,Electronics,5,72871,364355,UPI,Completed
+ORD1114,2/14/2026,CUST485,Mrs. Brianna Richard,East Maria,West,Printer,Electronics,1,77788,77788,Net Banking,Completed
+ORD1115,5/31/2025,CUST375,Mary Sweeney,Crawfordside,East,Printer,Electronics,4,3973,15892,Debit Card,Completed
+ORD1116,9/20/2025,CUST773,Brian Allen,West Jamie,West,Mobile,Electronics,3,52958,158874,Credit Card,Cancelled
+ORD1117,4/4/2026,CUST426,Christopher Bowman,Hollandshire,North,Mobile,Electronics,1,24634,24634,Net Banking,Cancelled
+ORD1118,3/12/2026,CUST845,Corey Sanders,South Destinyfort,South,Smartwatch,Electronics,4,42559,170236,Cash,Returned
+ORD1119,3/9/2026,CUST406,Robert Lyons,Joelmouth,South,Laptop,Electronics,4,42045,168180,Credit Card,Completed
+ORD1120,10/29/2025,CUST748,Sarah Vance,Lake Paul,East,Mobile,Electronics,4,75524,302096,Net Banking,Completed
+ORD1121,1/30/2026,CUST678,Mrs. Amanda Hubbard,New Leahhaven,East,Tablet,Electronics,5,65826,329130,Cash,Returned
+ORD1122,5/20/2025,CUST826,Ronald Torres,Port Charles,East,Camera,Electronics,3,55760,167280,Net Banking,Returned
+ORD1123,9/13/2025,CUST612,Pam Cooper,Jeffreymouth,East,Printer,Electronics,2,19034,38068,Credit Card,Cancelled
+ORD1124,3/6/2026,CUST426,Jacob Romero,New Mary,North,Headphones,Electronics,3,62907,188721,Credit Card,Completed
+ORD1125,6/19/2025,CUST712,Richard Murray,Port Tracy,West,Printer,Electronics,3,11210,33630,Cash,Completed
+ORD1126,3/29/2026,CUST353,Joshua Neal,New Nicholas,East,Camera,Electronics,2,66061,132122,Cash,Returned
+ORD1127,7/15/2025,CUST824,Matthew Adkins,Lake Carlos,East,Tablet,Electronics,1,44064,44064,UPI,Completed
+ORD1128,4/29/2026,CUST540,Julie Keller,West Tammyland,East,Camera,Electronics,3,42702,128106,Net Banking,Returned
+ORD1129,12/26/2025,CUST659,Patrick Collier,New Alexandertown,West,Camera,Electronics,1,31925,31925,Net Banking,Cancelled
+ORD1130,10/29/2025,CUST504,Dr. Angela Horton,Keithfort,East,Headphones,Electronics,3,16446,49338,Net Banking,Completed
+ORD1131,2/17/2026,CUST643,Samantha Rivera,West Heather,South,Smartwatch,Electronics,1,14555,14555,Debit Card,Completed
+ORD1132,3/21/2026,CUST261,Chelsea Kidd,Ryanburgh,East,Mobile,Electronics,2,48624,97248,Credit Card,Completed
+ORD1133,4/28/2026,CUST923,Jennifer Stevenson,East Kaitlyn,West,Printer,Electronics,2,66032,132064,Cash,Completed
+ORD1134,12/6/2025,CUST481,Andrew Johnson,Kimberg,South,Smartwatch,Electronics,3,46468,139404,UPI,Returned
+ORD1135,12/18/2025,CUST243,Roy Barajas,West Christine,East,Camera,Electronics,1,43072,43072,Cash,Cancelled
+ORD1136,1/13/2026,CUST871,Robin Ramos,Port Linda,North,Smartwatch,Electronics,3,35219,105657,Credit Card,Cancelled
+ORD1137,2/26/2026,CUST563,Alejandro Webb,Pattersonfort,West,Smartwatch,Electronics,5,25179,125895,Credit Card,Cancelled
+ORD1138,2/7/2026,CUST739,Kayla Mills,East Shawntown,North,Camera,Electronics,1,43665,43665,UPI,Returned
+ORD1139,7/8/2025,CUST308,Brittany Mercado,Jackieview,North,Camera,Electronics,5,42664,213320,Net Banking,Completed
+ORD1140,9/28/2025,CUST221,Chelsea Boone,East Shawn,North,Printer,Electronics,3,65970,197910,Net Banking,Returned
+ORD1141,8/18/2025,CUST408,Tim Miller,Coxbury,South,Tablet,Electronics,2,7089,14178,Cash,Cancelled
+ORD1142,3/28/2026,CUST756,Mary Ford,Angiemouth,South,Smartwatch,Electronics,1,23595,23595,UPI,Completed
+ORD1143,9/5/2025,CUST468,Kaylee Fisher,Nicholasfurt,East,Tablet,Electronics,4,58814,235256,Credit Card,Completed
+ORD1144,12/3/2025,CUST515,Elijah Garza,New Rayland,West,Printer,Electronics,2,44772,89544,Credit Card,Returned
+ORD1145,12/15/2025,CUST345,William Mosley,Karishire,North,Smartwatch,Electronics,4,35838,143352,Debit Card,Completed
+ORD1146,4/27/2026,CUST993,Jessica Mullins,Hamptonfort,West,Smartwatch,Electronics,4,39108,156432,Credit Card,Completed
+ORD1147,11/14/2025,CUST730,Michael Riley,North Randy,North,Laptop,Electronics,5,9796,48980,Credit Card,Completed
+ORD1148,5/2/2025,CUST814,Jared Hogan,Jacobport,North,Laptop,Electronics,4,34634,138536,Cash,Cancelled
+ORD1149,2/9/2026,CUST141,Michelle Lester,North Nancy,North,Headphones,Electronics,1,63253,63253,Net Banking,Cancelled
+ORD1150,12/15/2025,CUST947,Mark Dixon,Lake Glenport,West,Camera,Electronics,4,58905,235620,Credit Card,Returned
+ORD1151,9/23/2025,CUST995,Michael Underwood,East Matthew,North,Smartwatch,Electronics,4,78584,314336,Cash,Cancelled
+ORD1152,3/17/2026,CUST980,Kathryn Orozco,Martinezland,West,Mobile,Electronics,1,17695,17695,UPI,Completed
+ORD1153,8/12/2025,CUST786,Douglas Powers,East Cassandrahaven,South,Tablet,Electronics,1,21398,21398,Debit Card,Returned
+ORD1154,10/23/2025,CUST463,Linda Tate,Charlesville,West,Mobile,Electronics,2,31741,63482,UPI,Completed
+ORD1155,10/22/2025,CUST676,Stacy Barrett,Kathyberg,North,Laptop,Electronics,4,79805,319220,Net Banking,Returned
+ORD1156,4/25/2026,CUST637,Gary Keller,Taylorborough,East,Mobile,Electronics,5,694,3470,Credit Card,Returned
+ORD1157,6/13/2025,CUST865,Jodi Smith,East Desireeborough,North,Tablet,Electronics,3,20705,62115,UPI,Completed
+ORD1158,5/13/2025,CUST628,Stephanie Oliver,South Nancytown,East,Camera,Electronics,1,61216,61216,UPI,Completed
+ORD1159,11/24/2025,CUST179,Daniel Jones,Richardburgh,North,Mobile,Electronics,1,70565,70565,Cash,Returned
+ORD1160,12/5/2025,CUST206,Mary Bond,Madisonside,South,Tablet,Electronics,3,55353,166059,Cash,Completed
+ORD1161,9/22/2025,CUST640,Kimberly Odom,Lake Cynthiaton,South,Headphones,Electronics,4,62528,250112,Credit Card,Cancelled
+ORD1162,5/24/2025,CUST882,Susan Santos,Sandraville,South,Mobile,Electronics,2,79314,158628,Cash,Returned
+ORD1163,7/9/2025,CUST545,Seth Cardenas,Catherinefurt,South,Laptop,Electronics,3,522,1566,Cash,Cancelled
+ORD1164,11/3/2025,CUST249,Desiree Murray,Lake Samantha,West,Camera,Electronics,4,30761,123044,Net Banking,Completed
+ORD1165,10/16/2025,CUST218,Elizabeth Ortiz,East Gary,North,Printer,Electronics,4,50827,203308,Net Banking,Returned
+ORD1166,7/12/2025,CUST525,Natalie Park,East Christina,North,Mobile,Electronics,1,68342,68342,Debit Card,Completed
+ORD1167,12/3/2025,CUST176,Julie Whitney,Ericborough,South,Mobile,Electronics,5,46599,232995,Net Banking,Returned
+ORD1168,2/21/2026,CUST166,Christopher Valenzuela,West Scotthaven,North,Tablet,Electronics,2,13249,26498,Debit Card,Cancelled
+ORD1169,1/22/2026,CUST141,Veronica Wise,Wagnerhaven,West,Tablet,Electronics,5,4318,21590,Cash,Returned
+ORD1170,10/22/2025,CUST672,Lauren Martinez,Mclaughlinton,South,Printer,Electronics,5,13320,66600,UPI,Returned
+ORD1171,11/19/2025,CUST497,Anna Wilson,Kellybury,North,Headphones,Electronics,2,2652,5304,Cash,Returned
+ORD1172,12/3/2025,CUST880,Gregg Perez,Briannastad,South,Laptop,Electronics,1,51122,51122,Credit Card,Cancelled
+ORD1173,9/16/2025,CUST993,Peter Miller,Mirandatown,South,Headphones,Electronics,3,31432,94296,UPI,Returned
+ORD1174,4/1/2026,CUST569,Lauren Brennan,East Monique,West,Laptop,Electronics,1,52766,52766,Debit Card,Returned
+ORD1175,4/13/2026,CUST845,David Anderson,South Paulchester,North,Headphones,Electronics,4,43148,172592,Cash,Completed
+ORD1176,4/8/2026,CUST622,Kathy Martinez,Williamsfort,West,Headphones,Electronics,3,63205,189615,Net Banking,Cancelled
+ORD1177,7/11/2025,CUST818,Christopher Garcia,Port Petershire,South,Printer,Electronics,1,24357,24357,Cash,Returned
+ORD1178,12/2/2025,CUST617,Nicole Harris,Hodgemouth,North,Headphones,Electronics,4,42973,171892,Debit Card,Returned
+ORD1179,12/5/2025,CUST845,Gregory Garcia,Brianton,South,Printer,Electronics,5,48784,243920,Net Banking,Completed
+ORD1180,10/29/2025,CUST110,Nina Everett,Lopezville,North,Printer,Electronics,2,61472,122944,Credit Card,Cancelled
+ORD1181,11/6/2025,CUST299,Jason Roberts,Schroedershire,North,Laptop,Electronics,2,4836,9672,Net Banking,Returned
+ORD1182,9/5/2025,CUST714,Cindy Murray,Michaelberg,West,Camera,Electronics,2,72401,144802,Debit Card,Completed
+ORD1183,11/9/2025,CUST937,Kevin Whitaker,West Lindseytown,North,Tablet,Electronics,5,18582,92910,Net Banking,Cancelled
+ORD1184,8/10/2025,CUST444,Keith Mason,Stephensmouth,West,Smartwatch,Electronics,1,33054,33054,Debit Card,Cancelled
+ORD1185,8/31/2025,CUST729,Emily Adams,Watkinshaven,South,Laptop,Electronics,3,71217,213651,Debit Card,Returned
+ORD1186,4/21/2026,CUST934,Steven Olsen,Juliebury,North,Tablet,Electronics,3,22090,66270,UPI,Returned
+ORD1187,4/2/2026,CUST585,John Allison,Brownville,East,Laptop,Electronics,4,73595,294380,Cash,Completed
+ORD1188,7/17/2025,CUST398,Andrea Martinez,Taylormouth,East,Laptop,Electronics,1,8272,8272,UPI,Completed
+ORD1189,4/13/2026,CUST135,James Burton,Marybury,South,Camera,Electronics,2,13047,26094,Credit Card,Returned
+ORD1190,5/27/2025,CUST546,Katrina Allison,New Austinberg,East,Smartwatch,Electronics,2,69903,139806,Cash,Cancelled
+ORD1191,7/6/2025,CUST240,Jennifer Cook,Port Matthewton,North,Headphones,Electronics,2,42227,84454,Debit Card,Cancelled
+ORD1192,7/19/2025,CUST821,Dawn Cox,North Veronica,South,Camera,Electronics,1,33048,33048,UPI,Returned
+ORD1193,1/13/2026,CUST277,Lori Kirby,Lake Allison,East,Headphones,Electronics,3,20309,60927,Credit Card,Returned
+ORD1194,10/4/2025,CUST680,Elizabeth Summers,Port Tracy,South,Printer,Electronics,2,19645,39290,Cash,Cancelled
+ORD1195,6/1/2025,CUST398,Mark Peterson,East Richardstad,North,Mobile,Electronics,3,24991,74973,Cash,Completed
+ORD1196,9/8/2025,CUST343,Jonathan Cole,Lisaport,South,Mobile,Electronics,1,19769,19769,Net Banking,Completed
+ORD1197,6/4/2025,CUST860,Nicole Smith,Port Moniqueburgh,North,Laptop,Electronics,4,9983,39932,Debit Card,Completed
+ORD1198,5/7/2025,CUST351,Randy Wagner,Jodichester,West,Camera,Electronics,4,56348,225392,Credit Card,Returned
+ORD1199,5/14/2025,CUST290,Patricia Flores,New Denise,South,Smartwatch,Electronics,3,64454,193362,Cash,Returned
+ORD1200,2/14/2026,CUST295,Christopher Morales,Bonillahaven,North,Headphones,Electronics,2,21304,42608,UPI,Completed
+ORD1201,7/18/2025,CUST341,Andrew Miller,North Williamfort,South,Smartwatch,Electronics,3,37836,113508,Cash,Completed
+ORD1202,8/28/2025,CUST334,Dennis Bird,Lake Hannahchester,West,Laptop,Electronics,4,43948,175792,Debit Card,Cancelled
+ORD1203,8/3/2025,CUST742,Janet Cooper,Lesliemouth,East,Laptop,Electronics,3,41861,125583,Debit Card,Cancelled
+ORD1204,4/1/2026,CUST623,Scott Petersen,Cohenbury,North,Laptop,Electronics,4,22396,89584,UPI,Cancelled
+ORD1205,7/21/2025,CUST238,Joshua Kennedy,East Andrewstad,South,Tablet,Electronics,4,25324,101296,Debit Card,Cancelled
+ORD1206,10/17/2025,CUST528,Mark Hardin,Millerside,North,Smartwatch,Electronics,3,2718,8154,Debit Card,Returned
+ORD1207,8/13/2025,CUST450,Katie Brown,Beckview,North,Tablet,Electronics,4,44743,178972,Debit Card,Returned
+ORD1208,1/15/2026,CUST228,Jose Watkins DVM,South David,West,Smartwatch,Electronics,3,61930,185790,Cash,Returned
+ORD1209,9/29/2025,CUST598,David Harrison,Andradefort,East,Laptop,Electronics,3,3318,9954,Credit Card,Cancelled
+ORD1210,3/11/2026,CUST274,Brian Wang,Browntown,East,Smartwatch,Electronics,2,39429,78858,Cash,Returned
+ORD1211,10/4/2025,CUST633,Megan Johnson,Tamaraville,West,Smartwatch,Electronics,1,53051,53051,Cash,Cancelled
+ORD1212,3/3/2026,CUST267,William Ferguson,Oconnorstad,West,Headphones,Electronics,5,10501,52505,Net Banking,Cancelled
+ORD1213,9/17/2025,CUST261,Travis Prince MD,Port Sandrahaven,North,Laptop,Electronics,1,61375,61375,Cash,Completed
+ORD1214,1/10/2026,CUST891,Eric Lowe,New Alanshire,East,Tablet,Electronics,2,34953,69906,UPI,Returned
+ORD1215,4/26/2026,CUST855,Rebecca Gibson,South Noahstad,North,Smartwatch,Electronics,1,32395,32395,Debit Card,Completed
+ORD1216,7/26/2025,CUST432,Kelsey Allen,South Monique,South,Printer,Electronics,3,27004,81012,Credit Card,Cancelled
+ORD1217,12/21/2025,CUST741,Stacy Donaldson,New Micheleville,South,Camera,Electronics,5,33396,166980,Cash,Returned
+ORD1218,11/15/2025,CUST664,Laura Allison,West Nicholas,North,Headphones,Electronics,4,34525,138100,Net Banking,Cancelled
+ORD1219,3/12/2026,CUST999,Pamela Hughes,Andersenville,North,Camera,Electronics,1,76105,76105,Cash,Completed
+ORD1220,1/2/2026,CUST111,Kimberly Velez,West Cynthia,North,Printer,Electronics,4,65587,262348,Cash,Cancelled
+ORD1221,3/10/2026,CUST957,William Nichols,Cookland,South,Laptop,Electronics,2,49153,98306,Net Banking,Completed
+ORD1222,8/29/2025,CUST788,Robert Ray,Lewishaven,South,Camera,Electronics,5,58143,290715,Net Banking,Completed
+ORD1223,3/18/2026,CUST449,Lori Davis,Mccormicktown,North,Mobile,Electronics,1,73125,73125,Net Banking,Returned
+ORD1224,2/7/2026,CUST517,Dr. Michele Roberts DDS,North Rebeccaville,East,Tablet,Electronics,3,26482,79446,Net Banking,Completed
+ORD1225,9/7/2025,CUST991,Angel Thomas,Jonland,East,Mobile,Electronics,3,56980,170940,Credit Card,Completed
+ORD1226,8/28/2025,CUST373,Justin Webb,Newtonmouth,South,Headphones,Electronics,3,29433,88299,Cash,Cancelled
+ORD1227,7/15/2025,CUST300,Linda Garcia,Smithton,East,Mobile,Electronics,1,71723,71723,Net Banking,Cancelled
+ORD1228,12/9/2025,CUST504,Megan Fuller,Maryberg,West,Laptop,Electronics,4,5279,21116,Net Banking,Completed
+ORD1229,4/8/2026,CUST535,Mrs. Diane Thomas,Harristown,East,Smartwatch,Electronics,2,6923,13846,Credit Card,Cancelled
+ORD1230,12/17/2025,CUST864,Brian Martinez,Smithview,North,Tablet,Electronics,4,9637,38548,Cash,Cancelled
+ORD1231,11/23/2025,CUST822,Cheryl Hill,South Rachelchester,North,Printer,Electronics,3,34207,102621,Credit Card,Returned
+ORD1232,7/21/2025,CUST114,Betty Evans,Simmonshaven,North,Camera,Electronics,5,1135,5675,Credit Card,Completed
+ORD1233,6/29/2025,CUST748,John Brown PhD,East Janet,West,Printer,Electronics,1,66504,66504,Cash,Cancelled
+ORD1234,9/13/2025,CUST177,Leslie Berger,Matthewburgh,West,Laptop,Electronics,2,66180,132360,UPI,Cancelled
+ORD1235,12/28/2025,CUST287,Brandy Singh,Andrewview,North,Headphones,Electronics,1,35548,35548,Debit Card,Returned
+ORD1236,5/8/2025,CUST674,Jennifer Dickson,Rodriguezstad,West,Printer,Electronics,3,47303,141909,Net Banking,Returned
+ORD1237,3/18/2026,CUST489,Drew Singleton,Staffordburgh,West,Headphones,Electronics,1,54068,54068,UPI,Cancelled
+ORD1238,3/25/2026,CUST711,Brandon Combs,Ericton,North,Headphones,Electronics,3,75992,227976,Credit Card,Completed
+ORD1239,1/29/2026,CUST643,Jennifer Gomez,Watkinschester,West,Tablet,Electronics,2,34076,68152,Cash,Returned
+ORD1240,1/11/2026,CUST485,Katelyn Miles,Rossside,North,Smartwatch,Electronics,2,62683,125366,Net Banking,Completed
+ORD1241,1/9/2026,CUST258,Nathan Wang,Thompsonhaven,South,Mobile,Electronics,2,1266,2532,Cash,Returned
+ORD1242,1/7/2026,CUST153,Chad Smith,Cuevasborough,North,Laptop,Electronics,4,34891,139564,Cash,Cancelled
+ORD1243,11/6/2025,CUST377,Christine Harvey,Taylorhaven,North,Mobile,Electronics,4,67969,271876,Net Banking,Cancelled
+ORD1244,1/4/2026,CUST523,Brian Davis,Lake Stevenfurt,South,Printer,Electronics,5,58944,294720,Debit Card,Completed
+ORD1245,6/17/2025,CUST858,Maria Jacobs,Port Franciscofort,West,Camera,Electronics,3,55059,165177,Credit Card,Returned
+ORD1246,2/4/2026,CUST795,Abigail Hunter,South Johnchester,North,Tablet,Electronics,3,61622,184866,UPI,Completed
+ORD1247,3/5/2026,CUST969,Aaron Bird,North Dawnton,East,Camera,Electronics,1,36618,36618,UPI,Returned
+ORD1248,8/18/2025,CUST995,Eric Quinn,Christopherfurt,South,Mobile,Electronics,1,4889,4889,Credit Card,Completed
+ORD1249,2/20/2026,CUST139,Donna Gomez,West Carriebury,North,Mobile,Electronics,2,16275,32550,UPI,Returned
+ORD1250,9/7/2025,CUST355,Heather Powell,Jillton,South,Tablet,Electronics,2,30663,61326,Credit Card,Completed
+ORD1251,6/15/2025,CUST471,Richard Young,East Ryan,East,Smartwatch,Electronics,5,17911,89555,UPI,Cancelled
+ORD1252,1/17/2026,CUST928,Lauren Rosales,Hannahburgh,West,Smartwatch,Electronics,2,29581,59162,Cash,Cancelled
+ORD1253,12/9/2025,CUST595,Michelle Smith,North Andrew,North,Laptop,Electronics,2,56603,113206,Debit Card,Completed
+ORD1254,12/13/2025,CUST347,Peter Lloyd,South Jamesview,West,Smartwatch,Electronics,5,38879,194395,Cash,Cancelled
+ORD1255,10/1/2025,CUST927,Robert Nelson,Darrenmouth,East,Tablet,Electronics,4,55364,221456,Cash,Returned
+ORD1256,10/21/2025,CUST663,Tara Huynh,West Daniel,East,Camera,Electronics,4,62313,249252,Cash,Cancelled
+ORD1257,7/6/2025,CUST793,Teresa Schwartz,North Tammymouth,South,Mobile,Electronics,4,53140,212560,Cash,Cancelled
+ORD1258,2/23/2026,CUST357,Andrew Rodriguez,East Ryan,North,Camera,Electronics,4,36064,144256,UPI,Completed
+ORD1259,8/26/2025,CUST651,Shannon Powell,Wallaceshire,North,Mobile,Electronics,4,52768,211072,Cash,Completed
+ORD1260,2/3/2026,CUST842,Shannon Smith,North Jennifer,West,Camera,Electronics,4,10659,42636,UPI,Returned
+ORD1261,7/14/2025,CUST726,Kevin Brown,Hardyhaven,South,Printer,Electronics,3,27638,82914,UPI,Cancelled
+ORD1262,11/12/2025,CUST890,Brian Patterson,New Veronica,West,Tablet,Electronics,2,48122,96244,UPI,Completed
+ORD1263,3/23/2026,CUST682,Crystal Mcdonald,New Justin,North,Tablet,Electronics,5,67055,335275,Cash,Returned
+ORD1264,2/2/2026,CUST805,Shelley Gutierrez,Lake Mitchellhaven,North,Headphones,Electronics,2,33093,66186,Debit Card,Cancelled
+ORD1265,3/18/2026,CUST600,Leroy Yu,South Williamton,South,Camera,Electronics,3,32839,98517,Debit Card,Cancelled
+ORD1266,12/20/2025,CUST859,Tara Nelson,Dixonmouth,West,Mobile,Electronics,3,30805,92415,UPI,Completed
+ORD1267,9/21/2025,CUST965,Lisa Cruz,Lake Georgeport,West,Smartwatch,Electronics,3,45197,135591,Cash,Completed
+ORD1268,7/25/2025,CUST791,Mary Burns,Harrytown,North,Printer,Electronics,2,43396,86792,Cash,Cancelled
+ORD1269,1/31/2026,CUST468,Andrew Peters,Amandashire,South,Headphones,Electronics,3,37283,111849,Debit Card,Cancelled
+ORD1270,5/10/2025,CUST937,Elizabeth Jordan,Shepardview,North,Camera,Electronics,1,27022,27022,Credit Card,Returned
+ORD1271,9/17/2025,CUST137,Deborah Matthews,Braymouth,East,Smartwatch,Electronics,2,28334,56668,UPI,Completed
+ORD1272,3/10/2026,CUST418,Christy Smith,Andremouth,South,Camera,Electronics,2,16444,32888,Cash,Cancelled
+ORD1273,9/9/2025,CUST132,John Owens,Gregoryview,West,Camera,Electronics,2,27390,54780,Cash,Returned
+ORD1274,4/7/2026,CUST755,Timothy Cooke,Nguyenbury,South,Printer,Electronics,4,21694,86776,Credit Card,Returned
+ORD1275,3/1/2026,CUST727,George Mosley,New Bradley,North,Smartwatch,Electronics,1,74589,74589,Net Banking,Completed
+ORD1276,3/5/2026,CUST248,Keith Buck,Lake Timothyville,North,Mobile,Electronics,5,42068,210340,UPI,Completed
+ORD1277,3/9/2026,CUST250,Kristin Whitaker,South Danaville,West,Laptop,Electronics,4,72672,290688,Net Banking,Cancelled
+ORD1278,12/13/2025,CUST587,James Reyes,Jonesfort,North,Laptop,Electronics,1,76918,76918,UPI,Completed
+ORD1279,7/9/2025,CUST887,Cody Reid,Pamelachester,South,Mobile,Electronics,2,6790,13580,UPI,Returned
+ORD1280,6/28/2025,CUST825,Tammie Yu,East Jenniferton,East,Headphones,Electronics,1,62080,62080,Debit Card,Completed
+ORD1281,12/30/2025,CUST198,Ryan Payne,Erinmouth,South,Headphones,Electronics,4,73565,294260,Credit Card,Returned
+ORD1282,4/29/2026,CUST588,Joshua Cook,Lake Ronaldtown,East,Mobile,Electronics,2,77196,154392,Credit Card,Completed
+ORD1283,9/10/2025,CUST875,Lorraine Small,Huffmantown,East,Mobile,Electronics,4,68381,273524,Net Banking,Cancelled
+ORD1284,11/18/2025,CUST346,Alyssa Wiggins,East Michael,West,Headphones,Electronics,2,6329,12658,Debit Card,Cancelled
+ORD1285,12/4/2025,CUST501,Michele Wood,New Kimberlyhaven,North,Camera,Electronics,5,42375,211875,Debit Card,Completed
+ORD1286,6/6/2025,CUST729,Shawn Vazquez,Aprilmouth,North,Tablet,Electronics,3,9957,29871,Debit Card,Completed
+ORD1287,11/30/2025,CUST551,Brandon Wood,Port Shawn,East,Headphones,Electronics,2,28793,57586,Cash,Returned
+ORD1288,12/10/2025,CUST117,Gabriel Pierce,Kochside,North,Printer,Electronics,3,61700,185100,Net Banking,Returned
+ORD1289,1/12/2026,CUST484,Thomas Mendez,West Emilyton,West,Laptop,Electronics,5,8460,42300,Debit Card,Returned
+ORD1290,6/20/2025,CUST461,Leroy Williams,Tammyborough,West,Mobile,Electronics,5,33773,168865,UPI,Returned
+ORD1291,8/8/2025,CUST393,Charles Leonard,Ericachester,South,Tablet,Electronics,1,17244,17244,UPI,Cancelled
+ORD1292,9/30/2025,CUST542,Jason Woods,Natalieside,North,Camera,Electronics,2,71537,143074,Cash,Returned
+ORD1293,8/29/2025,CUST516,Robert Thomas,West Stevenland,East,Mobile,Electronics,2,12969,25938,Net Banking,Returned
+ORD1294,6/27/2025,CUST720,Michael Baker,East Adam,North,Tablet,Electronics,5,48524,242620,UPI,Completed
+ORD1295,10/1/2025,CUST993,Cole Walker,West Carla,North,Camera,Electronics,1,51476,51476,Debit Card,Returned
+ORD1296,2/28/2026,CUST251,Dr. Carl Davis MD,New James,North,Laptop,Electronics,2,45220,90440,Cash,Cancelled
+ORD1297,7/22/2025,CUST836,Alan Underwood,Port Matthew,North,Laptop,Electronics,5,78701,393505,Net Banking,Returned
+ORD1298,8/7/2025,CUST271,Sarah Simpson,West Jody,South,Tablet,Electronics,4,16204,64816,Credit Card,Returned
+ORD1299,12/13/2025,CUST330,Brian Johnson,South Kimberly,South,Printer,Electronics,1,10910,10910,UPI,Returned
+ORD1300,4/5/2026,CUST981,Julie Lane,North Michelleport,North,Smartwatch,Electronics,4,47608,190432,Credit Card,Completed
+ORD1301,2/15/2026,CUST352,Jamie Garcia,Port Davidbury,East,Camera,Electronics,4,73436,293744,Cash,Cancelled
+ORD1302,4/11/2026,CUST746,Stephen Torres,North Matthew,West,Laptop,Electronics,2,33589,67178,UPI,Returned
+ORD1303,10/31/2025,CUST619,Jordan Wilson,Lake Kristinaborough,East,Tablet,Electronics,5,72633,363165,Debit Card,Completed
+ORD1304,3/31/2026,CUST196,Natalie Smith,Francisland,North,Printer,Electronics,3,57332,171996,Net Banking,Completed
+ORD1305,10/17/2025,CUST876,Kayla Escobar,Anthonyview,West,Tablet,Electronics,1,58444,58444,Net Banking,Returned
+ORD1306,12/8/2025,CUST471,Annette Johnson,New Christopher,West,Camera,Electronics,2,41172,82344,Net Banking,Returned
+ORD1307,7/2/2025,CUST749,Angela Miller,Garciafort,East,Smartwatch,Electronics,2,54171,108342,UPI,Returned
+ORD1308,3/11/2026,CUST699,Elizabeth Rosales,Kurtburgh,South,Mobile,Electronics,2,14587,29174,Credit Card,Completed
+ORD1309,1/3/2026,CUST733,Kevin Ingram,Colemanhaven,South,Laptop,Electronics,4,3935,15740,UPI,Cancelled
+ORD1310,2/24/2026,CUST105,Eric Kent,North Brenthaven,East,Smartwatch,Electronics,2,54307,108614,Net Banking,Completed
+ORD1311,5/10/2025,CUST822,Tammy Cole,Lake Michael,West,Printer,Electronics,3,45561,136683,Net Banking,Completed
+ORD1312,12/10/2025,CUST374,Jacqueline Cline,North Kyle,North,Headphones,Electronics,4,66879,267516,Credit Card,Cancelled
+ORD1313,10/4/2025,CUST627,Shannon Bryan,North Stephenberg,North,Camera,Electronics,2,68547,137094,Credit Card,Completed
+ORD1314,6/15/2025,CUST234,Mark Jones,Crosbyport,West,Smartwatch,Electronics,3,9461,28383,Cash,Returned
+ORD1315,4/22/2026,CUST434,Harold Hess,Lake Ericfurt,South,Tablet,Electronics,1,7388,7388,Cash,Returned
+ORD1316,11/10/2025,CUST828,Yolanda Clark,Lake Shannonfurt,East,Headphones,Electronics,1,77723,77723,UPI,Returned
+ORD1317,11/19/2025,CUST411,Stephen Stanley,Lake Richard,North,Smartwatch,Electronics,1,65006,65006,UPI,Returned
+ORD1318,7/30/2025,CUST658,Jessica Camacho,Ronaldtown,East,Tablet,Electronics,5,15689,78445,Credit Card,Cancelled
+ORD1319,8/25/2025,CUST111,Joseph Thomas,West Elizabeth,South,Camera,Electronics,5,59907,299535,Debit Card,Completed
+ORD1320,4/3/2026,CUST975,Caitlin Johnston,Lopezshire,South,Smartwatch,Electronics,3,55669,167007,Cash,Completed
+ORD1321,9/25/2025,CUST788,Erika Tate,Valerieborough,West,Mobile,Electronics,4,15851,63404,Credit Card,Cancelled
+ORD1322,9/5/2025,CUST922,Andrew Thompson,East Heather,West,Headphones,Electronics,5,56575,282875,UPI,Cancelled
+ORD1323,8/25/2025,CUST275,James Francis,Johnsonshire,West,Mobile,Electronics,1,78796,78796,Credit Card,Returned
+ORD1324,1/1/2026,CUST715,Bradley Rasmussen DVM,South Brad,North,Camera,Electronics,3,49223,147669,Debit Card,Cancelled
+ORD1325,4/25/2026,CUST105,Lauren Bryant,Larsonmouth,South,Mobile,Electronics,1,29107,29107,Debit Card,Completed
+ORD1326,11/14/2025,CUST525,Steven Rogers,Gamblehaven,North,Mobile,Electronics,5,48645,243225,Credit Card,Returned
+ORD1327,7/1/2025,CUST932,Victor Phillips,Gonzalezbury,West,Mobile,Electronics,2,46008,92016,Net Banking,Returned
+ORD1328,8/28/2025,CUST543,Dana Wise,Michelleborough,South,Laptop,Electronics,5,71588,357940,Net Banking,Cancelled
+ORD1329,8/3/2025,CUST173,Barbara Flynn,Edwardsmouth,North,Laptop,Electronics,3,57963,173889,Net Banking,Completed
+ORD1330,11/28/2025,CUST755,Brittany Nelson,Connerfort,South,Headphones,Electronics,5,28343,141715,Debit Card,Returned
+ORD1331,10/28/2025,CUST471,Edward Simon,Jasonstad,East,Printer,Electronics,5,37160,185800,Cash,Completed
+ORD1332,6/18/2025,CUST827,Laurie Montgomery,Fordfort,West,Smartwatch,Electronics,1,50270,50270,Debit Card,Cancelled
+ORD1333,8/6/2025,CUST541,Tonya Mayer,Port Dustin,West,Tablet,Electronics,2,3733,7466,Net Banking,Completed
+ORD1334,9/22/2025,CUST658,Katherine Farmer,Michaeltown,West,Laptop,Electronics,1,61265,61265,Debit Card,Returned
+ORD1335,12/28/2025,CUST562,Marissa Patterson,South Sherry,North,Mobile,Electronics,1,17383,17383,Cash,Completed
+ORD1336,10/4/2025,CUST109,Miranda Adams,South Joseburgh,South,Tablet,Electronics,4,63019,252076,Net Banking,Completed
+ORD1337,4/12/2026,CUST767,Susan Moreno,Jonesview,East,Mobile,Electronics,5,22416,112080,Debit Card,Returned
+ORD1338,11/4/2025,CUST622,Angela Martinez,East Marcmouth,South,Laptop,Electronics,5,60145,300725,UPI,Completed
+ORD1339,6/25/2025,CUST416,Deborah Morris,Lake Briannaburgh,West,Smartwatch,Electronics,5,14965,74825,UPI,Completed
+ORD1340,6/6/2025,CUST747,Jeffrey Perez,Leeview,East,Mobile,Electronics,5,41059,205295,UPI,Cancelled
+ORD1341,12/19/2025,CUST408,Amy Austin,North Joseland,North,Printer,Electronics,5,47892,239460,UPI,Completed
+ORD1342,6/24/2025,CUST992,Jill Orr,Josephfort,West,Tablet,Electronics,1,74171,74171,Debit Card,Returned
+ORD1343,7/2/2025,CUST506,Casey Massey,Travisfort,East,Tablet,Electronics,4,19308,77232,Debit Card,Cancelled
+ORD1344,4/28/2026,CUST622,David Ashley,Warrenmouth,East,Printer,Electronics,5,41586,207930,Net Banking,Cancelled
+ORD1345,3/18/2026,CUST685,Jeremy Brown,Port Johnside,West,Laptop,Electronics,5,37294,186470,Credit Card,Cancelled
+ORD1346,11/20/2025,CUST372,Anna Lopez,Port Christina,East,Printer,Electronics,1,70322,70322,Debit Card,Cancelled
+ORD1347,1/14/2026,CUST814,Yolanda Grant,East Jasmine,West,Tablet,Electronics,3,77858,233574,Debit Card,Cancelled
+ORD1348,2/21/2026,CUST885,Robert Bird,Williamsbury,West,Headphones,Electronics,1,35613,35613,Credit Card,Returned
+ORD1349,11/23/2025,CUST527,Jacqueline Clark,Lake Matthew,North,Mobile,Electronics,5,52137,260685,UPI,Cancelled
+ORD1350,4/5/2026,CUST232,Sarah Livingston,Coreyshire,North,Smartwatch,Electronics,1,19401,19401,Cash,Completed
+ORD1351,4/13/2026,CUST745,Denise Kim,South Deborahberg,West,Printer,Electronics,3,70460,211380,Debit Card,Returned
+ORD1352,9/26/2025,CUST255,Gina Rasmussen,Crawfordville,North,Camera,Electronics,1,65826,65826,Debit Card,Returned
+ORD1353,3/13/2026,CUST596,Carolyn Perez,Port Robertton,North,Laptop,Electronics,5,15528,77640,Debit Card,Cancelled
+ORD1354,5/4/2025,CUST603,Angela James,Wallaceburgh,North,Camera,Electronics,2,68564,137128,UPI,Returned
+ORD1355,12/23/2025,CUST371,Thomas Gallegos Jr.,Weaverberg,West,Headphones,Electronics,1,47604,47604,Credit Card,Returned
+ORD1356,7/19/2025,CUST193,Alexandria Baker,Tapiaburgh,West,Printer,Electronics,3,3285,9855,Cash,Returned
+ORD1357,9/25/2025,CUST114,Christopher Mora,Richmondport,North,Camera,Electronics,2,18482,36964,Cash,Completed
+ORD1358,8/31/2025,CUST332,Emily Harding,Port Kathleen,West,Mobile,Electronics,3,1145,3435,UPI,Returned
+ORD1359,4/24/2026,CUST788,Megan Alexander,Ericside,East,Smartwatch,Electronics,2,24117,48234,Debit Card,Returned
+ORD1360,6/30/2025,CUST828,Anita Crawford,West Warrenland,South,Tablet,Electronics,2,8192,16384,Cash,Completed
+ORD1361,2/27/2026,CUST231,Stephanie Ford,South Heather,North,Camera,Electronics,2,38082,76164,UPI,Cancelled
+ORD1362,5/16/2025,CUST292,Rachel Sanchez,New Bradleyfort,South,Smartwatch,Electronics,2,66485,132970,Debit Card,Completed
+ORD1363,6/14/2025,CUST498,Sarah Livingston,East Ericfort,North,Laptop,Electronics,1,69936,69936,Cash,Returned
+ORD1364,11/19/2025,CUST404,David Evans,Kristinfurt,North,Headphones,Electronics,2,74396,148792,Cash,Cancelled
+ORD1365,12/16/2025,CUST499,Angela Fields,Mccormickshire,West,Camera,Electronics,4,40073,160292,Cash,Returned
+ORD1366,12/3/2025,CUST265,Connor Nguyen,Waltershaven,South,Tablet,Electronics,3,73529,220587,Cash,Completed
+ORD1367,2/12/2026,CUST900,Melinda Richardson,South Alicia,South,Smartwatch,Electronics,1,16687,16687,Debit Card,Cancelled
+ORD1368,4/18/2026,CUST689,Daniel Hughes,South Jonathanfurt,West,Tablet,Electronics,2,9792,19584,Net Banking,Cancelled
+ORD1369,8/7/2025,CUST474,Thomas Wilkinson,Meganmouth,East,Smartwatch,Electronics,2,49886,99772,Net Banking,Cancelled
+ORD1370,8/18/2025,CUST911,Ryan Soto,West Mariaview,South,Mobile,Electronics,4,64929,259716,UPI,Returned
+ORD1371,12/28/2025,CUST347,Curtis Callahan,Robersonfort,West,Mobile,Electronics,4,8040,32160,Cash,Returned
+ORD1372,5/23/2025,CUST872,Lisa Keller,Jeanettefurt,North,Laptop,Electronics,1,21166,21166,Credit Card,Cancelled
+ORD1373,9/6/2025,CUST431,Chelsea Bender,Michaelview,South,Printer,Electronics,2,49583,99166,Debit Card,Completed
+ORD1374,1/13/2026,CUST736,Melissa Dillon,New Jamesstad,North,Printer,Electronics,3,17155,51465,Debit Card,Cancelled
+ORD1375,8/23/2025,CUST893,Emily Davis,Osbornefort,East,Camera,Electronics,1,8393,8393,Cash,Completed
+ORD1376,10/14/2025,CUST646,Amy Peters,Lake Monicachester,South,Laptop,Electronics,4,43098,172392,Debit Card,Cancelled
+ORD1377,8/14/2025,CUST694,Antonio Long,Port Kelli,South,Smartwatch,Electronics,4,12574,50296,Debit Card,Returned
+ORD1378,3/5/2026,CUST927,Samantha Garcia,Mariaview,North,Printer,Electronics,4,13482,53928,Debit Card,Cancelled
+ORD1379,8/30/2025,CUST545,Tiffany Morgan,Aprilmouth,West,Headphones,Electronics,4,71808,287232,Cash,Returned
+ORD1380,10/25/2025,CUST662,Eduardo Williams,Lake Jasonside,East,Printer,Electronics,3,76396,229188,Net Banking,Cancelled
+ORD1381,4/12/2026,CUST960,Harold Murphy,Rickfort,West,Smartwatch,Electronics,5,22245,111225,Net Banking,Completed
+ORD1382,9/22/2025,CUST302,Lauren Boyd,Rachaelmouth,West,Printer,Electronics,2,31194,62388,Cash,Completed
+ORD1383,8/10/2025,CUST327,Thomas Patrick,Maxwellside,South,Tablet,Electronics,3,75600,226800,Net Banking,Returned
+ORD1384,11/14/2025,CUST756,Amanda Mcintosh,South Nataliechester,South,Headphones,Electronics,4,3246,12984,UPI,Cancelled
+ORD1385,10/16/2025,CUST663,Jeanette Bond,Lake Steven,East,Printer,Electronics,2,43814,87628,Debit Card,Cancelled
+ORD1386,7/7/2025,CUST956,Terri Hunt,Kennethfurt,West,Printer,Electronics,5,22690,113450,UPI,Cancelled
+ORD1387,11/26/2025,CUST464,Samuel Lopez,Melissaberg,North,Laptop,Electronics,5,8754,43770,Net Banking,Completed
+ORD1388,8/10/2025,CUST228,David Barrett,South Erin,North,Tablet,Electronics,1,4111,4111,Net Banking,Completed
+ORD1389,11/26/2025,CUST878,Sandra Smith,Anitamouth,North,Laptop,Electronics,4,12356,49424,Net Banking,Completed
+ORD1390,1/20/2026,CUST404,Angela Davis,New Austin,East,Mobile,Electronics,3,7275,21825,Cash,Returned
+ORD1391,10/30/2025,CUST612,Aaron Stevens,North Annettemouth,West,Mobile,Electronics,2,45274,90548,Net Banking,Returned
+ORD1392,12/30/2025,CUST519,Devin Williams,Sherrychester,North,Mobile,Electronics,1,79188,79188,Net Banking,Cancelled
+ORD1393,9/18/2025,CUST923,Jennifer Walker,Samuelhaven,North,Printer,Electronics,4,2411,9644,Credit Card,Returned
+ORD1394,11/5/2025,CUST749,Ashley Gill,Lunatown,North,Tablet,Electronics,3,67972,203916,Credit Card,Completed
+ORD1395,3/17/2026,CUST131,Christopher Johnson,West Kaitlynbury,North,Headphones,Electronics,4,68102,272408,UPI,Cancelled
+ORD1396,2/12/2026,CUST773,Melissa Lopez,Byrdshire,North,Tablet,Electronics,1,58023,58023,Net Banking,Completed
+ORD1397,12/20/2025,CUST220,Connor Moran,Port Coreyville,East,Mobile,Electronics,5,68805,344025,UPI,Cancelled
+ORD1398,1/10/2026,CUST138,Julia Khan,West Deborah,East,Smartwatch,Electronics,2,44319,88638,Net Banking,Cancelled
+ORD1399,11/30/2025,CUST506,Sherri Adams,Port Kennethstad,West,Laptop,Electronics,3,45502,136506,Net Banking,Cancelled
+ORD1400,12/27/2025,CUST462,Juan Becker,Conwayport,West,Headphones,Electronics,3,66294,198882,Net Banking,Completed
+ORD1401,6/13/2025,CUST150,Cassandra Harris,West Justintown,North,Printer,Electronics,3,15500,46500,Debit Card,Returned
+ORD1402,3/5/2026,CUST119,Jason Ramos,Batesfurt,West,Tablet,Electronics,2,17283,34566,Credit Card,Returned
+ORD1403,4/18/2026,CUST843,Leslie Butler,New Rickyland,North,Laptop,Electronics,2,37056,74112,Credit Card,Cancelled
+ORD1404,10/11/2025,CUST335,Joseph Ramos,Yvetteton,North,Laptop,Electronics,2,29884,59768,Net Banking,Completed
+ORD1405,11/12/2025,CUST137,Robert Scott,South Nicoleport,South,Laptop,Electronics,2,23634,47268,Credit Card,Returned
+ORD1406,2/25/2026,CUST477,Ryan Stevens,Lake Jamie,East,Tablet,Electronics,3,71172,213516,Cash,Completed
+ORD1407,10/13/2025,CUST525,Emily Juarez,North Kristi,South,Printer,Electronics,4,37857,151428,Cash,Cancelled
+ORD1408,10/2/2025,CUST952,Jessica Gregory,Lindaberg,East,Headphones,Electronics,3,1159,3477,UPI,Cancelled
+ORD1409,6/5/2025,CUST920,Charles Reeves,Zoechester,West,Laptop,Electronics,1,32623,32623,UPI,Completed
+ORD1410,7/30/2025,CUST966,Donna Vega,Port Marieshire,West,Headphones,Electronics,1,26035,26035,UPI,Cancelled
+ORD1411,7/14/2025,CUST442,Lisa Heath,Harrismouth,North,Camera,Electronics,1,69133,69133,Debit Card,Cancelled
+ORD1412,6/16/2025,CUST682,Wendy Rosario MD,Jamiefort,North,Smartwatch,Electronics,1,29581,29581,Net Banking,Returned
+ORD1413,9/1/2025,CUST263,Jeremy Boyd,Lake Loriberg,West,Camera,Electronics,3,27377,82131,UPI,Returned
+ORD1414,2/5/2026,CUST454,Megan Foster,Foxhaven,East,Printer,Electronics,5,50025,250125,UPI,Cancelled
+ORD1415,4/17/2026,CUST419,Brian Spencer,Lauramouth,North,Camera,Electronics,4,23825,95300,Cash,Returned
+ORD1416,8/2/2025,CUST813,Brenda Gibson,Lake Coleberg,South,Mobile,Electronics,5,56938,284690,Cash,Returned
+ORD1417,3/14/2026,CUST460,Holly Harvey,Amandastad,North,Camera,Electronics,4,58041,232164,Credit Card,Completed
+ORD1418,5/26/2025,CUST407,Brandon Valenzuela,Adamside,West,Headphones,Electronics,3,3053,9159,Cash,Completed
+ORD1419,12/29/2025,CUST452,Jordan Miller,Port Johnnyfort,East,Printer,Electronics,4,47948,191792,Debit Card,Completed
+ORD1420,2/9/2026,CUST156,Jason Stanley,Lake Katherinetown,East,Smartwatch,Electronics,3,47831,143493,UPI,Returned
+ORD1421,6/29/2025,CUST615,Laura Romero,West Tylerhaven,South,Tablet,Electronics,3,60889,182667,Cash,Cancelled
+ORD1422,4/6/2026,CUST633,Nancy Perez,Cassandraton,North,Smartwatch,Electronics,3,47497,142491,Net Banking,Returned
+ORD1423,6/3/2025,CUST667,Jasmine Sutton,Sheppardport,East,Laptop,Electronics,1,30498,30498,Debit Card,Completed
+ORD1424,9/20/2025,CUST135,Carrie Clark,Woodsbury,West,Headphones,Electronics,3,32824,98472,UPI,Completed
+ORD1425,9/16/2025,CUST977,Timothy Sanchez,Ericstad,East,Mobile,Electronics,2,1913,3826,Debit Card,Returned
+ORD1426,4/9/2026,CUST805,Amy Barnes,Jerometon,North,Smartwatch,Electronics,1,34356,34356,UPI,Returned
+ORD1427,10/26/2025,CUST662,Jonathan Martinez,East Lisafort,North,Smartwatch,Electronics,3,38816,116448,Net Banking,Returned
+ORD1428,7/27/2025,CUST482,Joseph Li,Port Lauraburgh,North,Printer,Electronics,1,64439,64439,Credit Card,Returned
+ORD1429,12/19/2025,CUST733,Michelle Lewis,Jenniferchester,West,Mobile,Electronics,2,49675,99350,UPI,Cancelled
+ORD1430,8/26/2025,CUST329,Brittany Valencia,Lake Briana,South,Printer,Electronics,2,8212,16424,UPI,Returned
+ORD1431,5/11/2025,CUST139,Mark Cabrera,Yvonnefurt,North,Mobile,Electronics,3,22398,67194,UPI,Returned
+ORD1432,7/30/2025,CUST514,Jacob Williams,South Donaldshire,South,Tablet,Electronics,3,14792,44376,Net Banking,Cancelled
+ORD1433,1/8/2026,CUST208,Joe Curtis,Gailport,North,Laptop,Electronics,2,20150,40300,Credit Card,Completed
+ORD1434,9/10/2025,CUST590,Hannah Sweeney,Lake Robertton,North,Printer,Electronics,5,60322,301610,Debit Card,Returned
+ORD1435,6/23/2025,CUST584,Laurie Young,Parsonsmouth,East,Smartwatch,Electronics,4,4056,16224,Cash,Returned
+ORD1436,1/17/2026,CUST721,James Parker,Newtonbury,East,Headphones,Electronics,1,30377,30377,Cash,Completed
+ORD1437,2/23/2026,CUST949,Mary Schmidt,Markhaven,South,Headphones,Electronics,2,44387,88774,Cash,Cancelled
+ORD1438,6/4/2025,CUST236,Dawn Anderson,Watkinsstad,North,Headphones,Electronics,5,54475,272375,UPI,Returned
+ORD1439,4/12/2026,CUST612,Robert Garcia,West Markmouth,North,Mobile,Electronics,3,62842,188526,Debit Card,Cancelled
+ORD1440,2/23/2026,CUST310,Elizabeth Smith,Heathershire,North,Smartwatch,Electronics,1,11627,11627,Debit Card,Returned
+ORD1441,8/21/2025,CUST896,Thomas Hurley,Patriciabury,South,Printer,Electronics,1,22357,22357,Net Banking,Cancelled
+ORD1442,6/1/2025,CUST346,Douglas Turner,North Adamborough,North,Laptop,Electronics,4,73364,293456,Cash,Completed
+ORD1443,10/5/2025,CUST485,Alicia Silva,Thompsonmouth,West,Smartwatch,Electronics,5,37704,188520,UPI,Returned
+ORD1444,5/23/2025,CUST982,Samantha Calhoun,Johnburgh,East,Camera,Electronics,2,26611,53222,Credit Card,Cancelled
+ORD1445,12/3/2025,CUST588,Jason Chapman,North Yvonne,East,Printer,Electronics,2,22138,44276,Debit Card,Returned
+ORD1446,11/5/2025,CUST183,Steven Lyons,Gardnermouth,West,Printer,Electronics,3,65609,196827,Credit Card,Returned
+ORD1447,7/31/2025,CUST331,Kathy Mccoy,Jeffreymouth,West,Camera,Electronics,1,61128,61128,Credit Card,Returned
+ORD1448,12/5/2025,CUST720,Michele Carter,Bergerhaven,East,Printer,Electronics,5,73993,369965,Debit Card,Cancelled
+ORD1449,3/1/2026,CUST686,Erica Brown,Haleybury,East,Headphones,Electronics,1,48263,48263,Net Banking,Returned
+ORD1450,11/30/2025,CUST377,Adam Stevenson,Mendozaton,West,Camera,Electronics,1,17938,17938,Net Banking,Completed
+ORD1451,4/28/2026,CUST454,Christopher Schroeder,Meyershire,West,Camera,Electronics,1,21773,21773,Credit Card,Completed
+ORD1452,8/13/2025,CUST573,Anna Morgan,Mcclainburgh,East,Laptop,Electronics,1,33831,33831,Net Banking,Returned
+ORD1453,7/21/2025,CUST257,Katherine King,East Dillonview,South,Printer,Electronics,2,60614,121228,Credit Card,Completed
+ORD1454,5/12/2025,CUST864,Robert Wallace,Phillipsside,East,Headphones,Electronics,4,55084,220336,Debit Card,Returned
+ORD1455,9/4/2025,CUST205,Nancy Estrada,Landryville,East,Camera,Electronics,1,61042,61042,Credit Card,Returned
+ORD1456,11/28/2025,CUST684,Stephen Browning,Charleschester,West,Tablet,Electronics,1,28838,28838,Cash,Cancelled
+ORD1457,7/31/2025,CUST429,Joel Young,South Edwardbury,North,Camera,Electronics,5,41845,209225,UPI,Cancelled
+ORD1458,11/24/2025,CUST758,Dana Cuevas,Michaelstad,West,Tablet,Electronics,2,11951,23902,Net Banking,Completed
+ORD1459,4/25/2026,CUST227,Malik Williams,East Garyfurt,South,Camera,Electronics,1,38432,38432,Credit Card,Completed
+ORD1460,11/26/2025,CUST987,Christine Cross,East Jessica,South,Laptop,Electronics,5,25026,125130,Cash,Returned
+ORD1461,12/5/2025,CUST976,Hannah Flores,Port Michelle,West,Laptop,Electronics,5,62284,311420,Debit Card,Returned
+ORD1462,1/9/2026,CUST621,Kimberly Carson,Michaelton,North,Printer,Electronics,4,14486,57944,Net Banking,Completed
+ORD1463,5/6/2025,CUST457,Janet Weber,Erikaland,East,Printer,Electronics,4,39820,159280,Debit Card,Cancelled
+ORD1464,7/20/2025,CUST394,Jacob Wilson,Theresafort,South,Mobile,Electronics,2,8412,16824,Net Banking,Returned
+ORD1465,5/1/2025,CUST283,Thomas Oconnor,Thompsonmouth,North,Headphones,Electronics,3,5881,17643,UPI,Completed
+ORD1466,12/2/2025,CUST310,Ronnie Rodriguez,Davenporthaven,South,Camera,Electronics,2,61678,123356,Debit Card,Cancelled
+ORD1467,1/28/2026,CUST130,Matthew Jones MD,South Aaronport,West,Mobile,Electronics,3,66497,199491,Debit Card,Returned
+ORD1468,2/22/2026,CUST178,Julie White,Alexanderville,North,Tablet,Electronics,3,41245,123735,Cash,Completed
+ORD1469,1/28/2026,CUST777,Richard Young,Port Makaylamouth,East,Tablet,Electronics,3,50612,151836,Net Banking,Completed
+ORD1470,6/17/2025,CUST204,Andrea Kennedy,West Juan,South,Headphones,Electronics,1,44975,44975,Debit Card,Returned
+ORD1471,4/2/2026,CUST242,Dakota Hudson,North Ethanfurt,South,Laptop,Electronics,3,43609,130827,Credit Card,Returned
+ORD1472,9/28/2025,CUST100,Timothy Davis,Georgeburgh,South,Printer,Electronics,4,53112,212448,Debit Card,Cancelled
+ORD1473,10/6/2025,CUST496,Amy Peterson,Kathyshire,North,Tablet,Electronics,4,48384,193536,Debit Card,Returned
+ORD1474,2/26/2026,CUST149,Alicia Warner DVM,Millerville,West,Tablet,Electronics,1,22445,22445,Credit Card,Completed
+ORD1475,2/23/2026,CUST919,Ricky Cain,North Richard,East,Mobile,Electronics,5,15145,75725,Debit Card,Completed
+ORD1476,3/31/2026,CUST294,Miss Laura Ross MD,North Ronald,West,Laptop,Electronics,5,55861,279305,Credit Card,Completed
+ORD1477,7/26/2025,CUST584,Rebecca Reynolds,Davidview,North,Headphones,Electronics,5,4464,22320,Cash,Returned
+ORD1478,9/9/2025,CUST642,Danielle Case,East Eric,West,Mobile,Electronics,1,24698,24698,UPI,Returned
+ORD1479,10/6/2025,CUST338,James Decker,Daisyview,North,Mobile,Electronics,5,23986,119930,Credit Card,Returned
+ORD1480,2/16/2026,CUST846,Michelle Green,Rachelport,East,Smartwatch,Electronics,3,17372,52116,Credit Card,Returned
+ORD1481,6/6/2025,CUST353,Kristopher Nelson,Joannastad,North,Laptop,Electronics,5,75654,378270,UPI,Completed
+ORD1482,8/2/2025,CUST914,Christina Jones,West Jody,South,Mobile,Electronics,3,58351,175053,UPI,Cancelled
+ORD1483,12/7/2025,CUST660,Brittany Hernandez,Johnsonville,West,Camera,Electronics,2,47048,94096,Cash,Cancelled
+ORD1484,1/15/2026,CUST986,Eric Flores,Lake Stuart,West,Smartwatch,Electronics,1,4913,4913,Net Banking,Cancelled
+ORD1485,12/26/2025,CUST275,John Swanson,Rebeccashire,West,Printer,Electronics,3,13522,40566,UPI,Cancelled
+ORD1486,10/14/2025,CUST891,Sheila Rodriguez,New Benjamin,East,Mobile,Electronics,4,35126,140504,UPI,Cancelled
+ORD1487,8/12/2025,CUST688,Heather Mercado,East Susanmouth,East,Headphones,Electronics,4,34954,139816,Credit Card,Cancelled
+ORD1488,2/25/2026,CUST519,Richard Jensen,Smithland,North,Laptop,Electronics,3,73648,220944,Credit Card,Completed
+ORD1489,1/22/2026,CUST185,Ryan Taylor,Mendezfort,East,Tablet,Electronics,4,13595,54380,Credit Card,Cancelled
+ORD1490,7/28/2025,CUST212,Cynthia Huff DDS,Justinstad,North,Mobile,Electronics,3,38958,116874,UPI,Returned
+ORD1491,3/17/2026,CUST116,Suzanne Johnson,Tylerborough,North,Mobile,Electronics,2,52239,104478,Debit Card,Returned
+ORD1492,2/1/2026,CUST176,Raymond Moore,Port Robert,North,Camera,Electronics,5,29340,146700,Cash,Returned
+ORD1493,9/23/2025,CUST182,James Pineda,West Jessica,South,Printer,Electronics,2,57950,115900,Debit Card,Completed
+ORD1494,11/28/2025,CUST307,Krystal Farrell,Rebeccaville,East,Mobile,Electronics,5,20221,101105,Net Banking,Completed
+ORD1495,4/20/2026,CUST929,Robert Mcgee,Steveberg,North,Laptop,Electronics,1,5750,5750,Net Banking,Cancelled
+ORD1496,2/3/2026,CUST744,Martin Potts,Jennytown,West,Smartwatch,Electronics,3,7865,23595,Net Banking,Returned
+ORD1497,4/3/2026,CUST261,Valerie Lawson,Thompsonland,East,Tablet,Electronics,5,69921,349605,Credit Card,Returned
+ORD1498,5/23/2025,CUST307,Brenda Duncan,Lake Ashleymouth,North,Printer,Electronics,1,38857,38857,Debit Card,Returned
+ORD1499,4/10/2026,CUST571,Dr. Anthony Reyes DVM,Wongview,East,Mobile,Electronics,1,7041,7041,Debit Card,Returned
