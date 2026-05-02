@@ -55,7 +55,7 @@ The goal of this project was:
 
 ## 📷 Dashboard Preview
 
-![Dashboard](SalesDashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
